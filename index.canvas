@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3b6c97c8eec0ed96","type":"text","text":"# SHIFT","x":110,"y":-420,"width":400,"height":93},
+		{"id":"0ee2f883df5040b2","x":110,"y":-820,"width":400,"height":400,"type":"file","file":"_res_/twemoji-2699.svg"}
+	],
+	"edges":[]
+}
